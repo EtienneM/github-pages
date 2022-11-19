@@ -2,6 +2,8 @@ theme: minima
 # remote_theme: pages-themes/merlot
 # plugins:
 # - jekyll-remote-theme # add this line to the plugins list if you already have one
+exclude:
+  - gems/
 title: Test
 author: Étienne M.
 description: Test de description
